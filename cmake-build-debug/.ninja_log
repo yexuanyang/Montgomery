@@ -1,0 +1,19 @@
+# ninja log v5
+1	278	6791386861328079	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+280	445	6791386862978537	fastPower.exe	c011f53ee39e151f
+2	298	6791387558526394	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+298	440	6791387559926364	fastPower.exe	c011f53ee39e151f
+3	283	6791388348611344	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+283	414	6791388349892856	fastPower.exe	c011f53ee39e151f
+3	278	6791389054204805	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+278	414	6791389055535326	fastPower.exe	c011f53ee39e151f
+2	264	6791389222074087	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+264	403	6791389223423460	fastPower.exe	c011f53ee39e151f
+2	270	6791389649930529	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+271	405	6791389651279820	fastPower.exe	c011f53ee39e151f
+2	276	6791389752888293	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+276	419	6791389754298312	fastPower.exe	c011f53ee39e151f
+2	270	6791389850635464	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+270	402	6791389851937082	fastPower.exe	c011f53ee39e151f
+2	272	6791390485683204	CMakeFiles/fastPower.dir/main.cpp.obj	89b88f9ed3de9f24
+272	406	6791390487003908	fastPower.exe	c011f53ee39e151f
