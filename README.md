@@ -1,4 +1,3 @@
-显示不出公式请下载github with mathjax插件
 
 
 ## 蒙哥马利算法
